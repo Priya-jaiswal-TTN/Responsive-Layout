@@ -180,7 +180,7 @@ a{
         width: 250px;
         height: 100vh;
         z-index: 99;
-        transition: 0.7s ease-in-out;
+        transition: 0.5s ease-in-out;
     }
 
     .nav-items li{
@@ -196,7 +196,7 @@ a{
         position: absolute;
         top: 10px;
         right: -100%;
-        transition: 0.7s ease-in-out;
+        transition: 0.5s ease-in-out;
         font-size: 1.1rem;
     }
 
