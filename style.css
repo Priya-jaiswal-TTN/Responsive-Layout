@@ -36,7 +36,7 @@ a{
 /* hero-section */
 
 .hero-section{
-    background: url('/Assests/res-bg.jpg') no-repeat center center/cover;
+    background: url('./Assests/res-bg.jpg') no-repeat center center/cover;
     height: 85vh;
     position: relative;
     overflow: hidden;
